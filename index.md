@@ -2,7 +2,7 @@
 
 August 23-25 at [Tolt MacDonald Park & Campground](https://www.kingcounty.gov/services/parks-recreation/parks/parks-and-natural-lands/popular-parks/toltmacdonald.aspx)
 
-CFP: 1 May - 20 May
+CFP: 1 May - 20 May <br />
 CFV (Saturday conference): TBD
 
 Exciting things about the conference go here
