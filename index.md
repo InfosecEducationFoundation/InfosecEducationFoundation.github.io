@@ -2,8 +2,9 @@
 
 August 23-25 at [Tolt MacDonald Park & Campground](https://www.kingcounty.gov/services/parks-recreation/parks/parks-and-natural-lands/popular-parks/toltmacdonald.aspx)
 
-CFP: 1 May - 20 May <br />
-CFV (Saturday conference): TBD
+CFP: Submit Now! <br />
+CFV (Saturday conference): Starts 30 May 2019
+
 
 Exciting things about the conference go here
 
@@ -25,6 +26,7 @@ and [SeaSec East](https://www.meetup.com/SEASec-East)
 
 ![](https://infoseceducationfoundation.github.io/SeaSecEast.png)
 
+And the InfoSec Education Foundation, a 501c3 Charity
 
 
     
