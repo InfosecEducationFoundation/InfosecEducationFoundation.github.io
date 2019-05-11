@@ -5,13 +5,7 @@ August 23-25 at [Tolt MacDonald Park & Campground](https://www.kingcounty.gov/se
 CFP:  [Submit Now!](https://drive.google.com/open?id=1T91GV8k-WZEkDXDcQxiW9td6r1NN9R75d8YbAIdLJzs) <br />
 CFV (Saturday conference): Starts 30 May 2019
 
-
-Exciting things about the conference go here
-
-
-And more things
-
-And yet more
+11 May: Pics or videos will be uploaded today! We're doing the site visit to check everything out!
 
 ## Brought to you by 
 
