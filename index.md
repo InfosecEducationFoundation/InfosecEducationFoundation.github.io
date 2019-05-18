@@ -1,6 +1,9 @@
 # Welcome to the Infosec Campout 
 
 August 23-25 at [Tolt MacDonald Park & Campground](https://www.kingcounty.gov/services/parks-recreation/parks/parks-and-natural-lands/popular-parks/toltmacdonald.aspx)
+The conference will be 24th
+
+## Please find our Social Contract [here](www.infoseccampout.com/)
 
 CFP:  [Submit Now!](https://drive.google.com/open?id=1T91GV8k-WZEkDXDcQxiW9td6r1NN9R75d8YbAIdLJzs) <br />
 CFV (Saturday conference): Starts 30 May 2019
