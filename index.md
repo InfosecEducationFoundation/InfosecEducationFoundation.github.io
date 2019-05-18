@@ -8,7 +8,7 @@ Camping will be the night of the 23rd, and the night of the 24th.<br />
 All campers must vacate the campground by noon on the 25th.<br />
 <br />
 
-Talks will be held in the afternoon of Saturday, August 24th, in the restored barn on the Tolt MacDonald campground site. The barn has power and picnic tables, and we anticipate proving a way to display slides. The morning of Saturday, August 24th, from 10 AM - 1 PM will have workshops, picnicing, and other fun events. If you have an idea, please fill out the ["Call for Ideas"](https://docs.google.com/document/d/1dqYS2rRKasEcbDTbh8jm4apKMI6CqNRo0nWBthxKWEU/edit?usp=sharing) and let us know what you'd like to see!<br />
+Talks will be held in the afternoon of Saturday, August 24th, in the restored barn on the Tolt MacDonald campground site. The barn has power and picnic tables, and we anticipate providing a way to display slides. The morning of Saturday, August 24th, from 10 AM - 1 PM will have workshops, picnicking, and other fun events. If you have an idea, please fill out the ["Call for Ideas"](https://docs.google.com/document/d/1dqYS2rRKasEcbDTbh8jm4apKMI6CqNRo0nWBthxKWEU/edit?usp=sharing) and let us know what you'd like to see!<br />
 
 
 ## Camping Information
