@@ -8,12 +8,12 @@ Anyone can report harassment or harassing behavior. Do not standby and let somet
 
 The important thing is to have fun, meet people, build your network, learn something. And we look forward to more years of fellowship, learning, and friendship.
 
-**The TL;DR:
-** 1. Be welcoming.
-** 1. Be kind.
-** 1. Look out for each other.
-** 1. We are stronger when we are united.
-** 1. Divisive behavior tears everything down. 
+The TL;DR:
+1. Be welcoming.<br>
+1. Be kind.<br>
+1. Look out for each other.<br>
+1. We are stronger when we are united.<br>
+1. Divisive behavior tears everything down. <br>
 
 Bryan Brake <br>
 Wendy Knox-Everette <br>
