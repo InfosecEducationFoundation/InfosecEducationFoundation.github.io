@@ -3,13 +3,12 @@
 August 23-25 at [Tolt MacDonald Park & Campground](https://www.kingcounty.gov/services/parks-recreation/parks/parks-and-natural-lands/popular-parks/toltmacdonald.aspx)<br>
 The conference will be 24th of August from 3pm to 8pm. <br>
 Camping will be the night of the 23rd, and the night of the 24th.<br>
-All campers must vacate the campground by noon on the 25th.
+All campers must vacate the campground by noon on the 25th.<br>
 
 
 ## Please find our Social Contract [here](Social_contract.md)
 
 CFP:  [Submit Now!](https://drive.google.com/open?id=1T91GV8k-WZEkDXDcQxiW9td6r1NN9R75d8YbAIdLJzs) <br />
-CFV (Saturday conference): Starts 30 May 2019
 
 BUY TICKETS!: https://www.eventbrite.com/e/infosec-campout-tickets-61915087694
 
