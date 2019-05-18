@@ -1,6 +1,8 @@
 # Welcome to the Infosec Campout 
 
-August 23-25 at [Tolt MacDonald Park & Campground](https://www.kingcounty.gov/services/parks-recreation/parks/parks-and-natural-lands/popular-parks/toltmacdonald.aspx)<br>
+August 23-25 at [Tolt MacDonald Park & Campground](https://www.kingcounty.gov/services/parks-recreation/parks/parks-and-natural-lands/popular-parks/toltmacdonald.aspx)<br><br><br>
+
+## Conference Information
 The conference will be 24th of August from 3pm to 8pm. <br>
 Camping will be the night of the 23rd, and the night of the 24th.<br>
 All campers must vacate the campground by noon on the 25th.<br>
