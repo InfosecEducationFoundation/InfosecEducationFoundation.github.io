@@ -14,6 +14,7 @@ The morning of Saturday, August 24th, from 10 AM - 1 PM will have workshops, pic
 Two types of camping sites are available. "Deluxe" campsites have power and water, while non-deluxe ones do not.<br />
 Camping tickets are per-person, not per-tent, as they include conference admission as well and Tolt MacDonald limits the number of people who can stay at each campsite. <br />
 Each site includes a picnic table and fire ring. <br />
+Each campsite at  Tolt will have up to two tents and four people. When you purchase tickets, you can purchase two or four camping tickets together to automatically get slotted into the same tent space, or reach out to the organizers to have us place you together at the same camp site by emailing bryan.brake at infoseceducationfoundation.com <br />
 Note that alchohol is NOT allowed within Tolt MacDonald Park. <br />
 
 
