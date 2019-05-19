@@ -19,7 +19,7 @@ Camping tickets are per-person, not per-tent, as they include conference admissi
 <br />
 Each campsite at  Tolt will have up to two tents and four people. When you purchase tickets, you can purchase two or four camping tickets together to automatically get slotted into the same tent space, or reach out to the organizers to have us place you together at the same camp site by emailing bryan.brake at infoseceducationfoundation.com <br />
 <br />
-Note that alchohol is NOT allowed within Tolt MacDonald Park. <br />
+Note that alcohol is NOT allowed within Tolt MacDonald Park. <br />
 
 
 ## Please find our Social Contract [here](Social_contract.md)
