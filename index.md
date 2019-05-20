@@ -36,13 +36,13 @@ We also have a ["Call for Ideas"](https://docs.google.com/document/d/1dqYS2rRKas
 [BrakeSec Podcast](https://www.brakeingsecurity.com/)
 
 
-![](https://www.infoseccampout.com/BRAKEING-LOGO-01-small.png)
+![](https://infoseccampout.com/BRAKEING-LOGO-01-small.png)
 
 
 and [SeaSec East](https://www.meetup.com/SEASec-East)
 
 
-![](https://www.infoseccampout.com/SeaSecEast.png)
+![](https://infoseccampout.com/SeaSecEast.png)
 
 And the InfoSec Education Foundation, a 501c3 Charity
 
