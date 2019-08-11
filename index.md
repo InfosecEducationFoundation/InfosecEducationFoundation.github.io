@@ -7,6 +7,7 @@ August 23-25 at [Tolt MacDonald Park & Campground](https://www.kingcounty.gov/se
 
 ## Here's the [schedule of events](https://docs.google.com/document/d/1w8S5MzwqO5rwzoJFjt-mPhU4Kn2hvjPyUMvr3JrW1iw/edit?usp=sharing) (may be subject to change)
 
+UPDATES: THERE ARE NO SPACES FOR RECREATIONAL VEHICLES (RVs). DO NOT SHOW UP WITH AN RV IF IT'S NOT ALREADY BEEN CLEARED BY CONFERENCE STAFF!
 
 CFP:  CLOSED! (winners will be notified by email)
 
