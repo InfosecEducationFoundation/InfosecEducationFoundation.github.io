@@ -5,6 +5,9 @@ August 23-25 at [Tolt MacDonald Park & Campground](https://www.kingcounty.gov/se
 
 ## Please find our Social Contract [here](Social_contract.md)
 
+## Here's the schedule of events (may be subject to change)
+https://docs.google.com/document/d/1w8S5MzwqO5rwzoJFjt-mPhU4Kn2hvjPyUMvr3JrW1iw/edit?usp=sharing
+
 CFP:  CLOSED! (winners will be notified by email)
 
 BUY TICKETS!: [EventBrite](https://www.eventbrite.com/e/infosec-campout-tickets-61915087694) <br />
