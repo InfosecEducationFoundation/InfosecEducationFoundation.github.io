@@ -5,8 +5,8 @@ August 23-25 at [Tolt MacDonald Park & Campground](https://www.kingcounty.gov/se
 
 ## Please find our Social Contract [here](Social_contract.md)
 
-## Here's the schedule of events (may be subject to change)
-https://docs.google.com/document/d/1w8S5MzwqO5rwzoJFjt-mPhU4Kn2hvjPyUMvr3JrW1iw/edit?usp=sharing
+## Here's the [schedule of events](https://docs.google.com/document/d/1w8S5MzwqO5rwzoJFjt-mPhU4Kn2hvjPyUMvr3JrW1iw/edit?usp=sharing) (may be subject to change)
+
 
 CFP:  CLOSED! (winners will be notified by email)
 
