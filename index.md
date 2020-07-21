@@ -2,7 +2,7 @@
 
 
 
-## ** Due to Covid-19 pandemic, we are cancelling all activities concerning the Infosec Campout for 2020. All Tickets through Eventbrite have been refunded. If you have any questions, please reach out to our twitter handle @infoseccampout or email bryan.brake@infoseceducationfoundation.com <br />**
+## Due to Covid-19 pandemic, we are cancelling all activities concerning the Infosec Campout for 2020. All Tickets through Eventbrite have been refunded. If you have any questions, please reach out to our twitter handle @infoseccampout or email bryan.brake@infoseceducationfoundation.com <br />
 
 ## Please find our Social Contract [here](Social_contract.md)
 
