@@ -1,31 +1,12 @@
 # Welcome to the Infosec Campout 
 
-Fri, Aug 28, 2020, 7:00 PM – Sun, Aug 30, 2020, 12:00 PM PDT  at [Tolt MacDonald Park & Campground](https://www.kingcounty.gov/services/parks-recreation/parks/parks-and-natural-lands/popular-parks/toltmacdonald.aspx)<br /><br /><br />
-
-
 ## Please find our Social Contract [here](Social_contract.md)
 
-
-
-CFP:  Coming soon
-
-BUY TICKETS!: 2020 Tickets available on [EventBrite](https://www.eventbrite.com/e/infosec-campout-2020-tickets-97662570377) <br />
-Purchase conference day passes or camping + conference admission through our Eventbrite.<br />
-
-We will reopen "Call for Ideas" soon where you can help us decide what might happen at the conference. Legitimate suggestions welcome!
-
+** Due to Covid-19 pandemic, we are cancelling all activities concerning the Infosec Campout for 2020. All Tickets through Eventbrite have been refunded. If you have any questions, please reach out to our twitter handle @infoseccampout or email bryan.brake@infoseceducationfoundation.com <br />
 
 
 ## Conference Information
-The conference will be 29th of August from 3pm to 8pm. <br />
-Camping will be the night of the 28rd, and the night of the 29th.<br />
-All campers must vacate the campground by noon on the 30th.<br />
-Want to attend without camping out? Conference-only passes are available for the day of August 29th!<br />
-<br />
-
-Talks will be held in the afternoon of Saturday, August 29th, in the restored barn on the Tolt MacDonald campground site. The barn has power and picnic tables, and we anticipate providing a way to display slides. The morning of Saturday, August 29th, from 10 AM - 1 PM will have workshops, picnicking, and other fun events. <br />
-
-You can review last year's [schedule of events](https://docs.google.com/document/d/1w8S5MzwqO5rwzoJFjt-mPhU4Kn2hvjPyUMvr3JrW1iw/edit?usp=sharing) 
+As of 20 July 2020, This conference is cancelled. Covid related closures make the campsite unable to be opened, and lack of large gatherings at this time do not make for a safe environment for a conference. 
 
 ## Camping Information
 Two types of camping sites are available. "Deluxe" campsites have power and water, while non-deluxe ones do not. Camping tickets provide a campsite for both Friday & Saturday night.<br />
