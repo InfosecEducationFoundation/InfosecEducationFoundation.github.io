@@ -5,7 +5,7 @@
 ## The 2021 Infosec Campout is on for 27-29 August 2021 at Tolt-McDonald Campground in Carnation , Washington!<br />
 
 ## Tickets are available on Eventbrite!
-Order tickets ([on Eventbrite] https://www.eventbrite.com/e/infosec-campout-2021-tickets-157561790557)
+Order tickets [on Eventbrite] (https://www.eventbrite.com/e/infosec-campout-2021-tickets-157561790557)
 
 ## Please find our Social Contract [here](Social_contract.md)
 
@@ -17,9 +17,9 @@ We will be at [Tolt-McDonald Campground](https://kingcounty.gov/services/parks-r
 
 We'll be making sure everyone can still enjoy themselves. We have 6 speaking slots, a 120 inch projector screen and projector, and we'll have some excellent talks. So bring your tents, rent an RV, and come have some fun. If you require electrical power, all camp spots will have RV hookups, so bring your electric griddles, CPAP machines, or even your EVs and have a good time.<br />
 
-You can ([order a tee shirt online] https://art-by-nukabelle.myshopify.com/); if you place an order for a ticket we will send you a discount code for your tee shirt<br />
+You can [order a tee shirt online](https://art-by-nukabelle.myshopify.com/); if you place an order for a ticket we will send you a discount code for your tee shirt<br />
 
-Order tickets at ([Eventbrite] https://www.eventbrite.com/e/infosec-campout-2021-tickets-157561790557)<br />
+Order tickets at [Eventbrite](https://www.eventbrite.com/e/infosec-campout-2021-tickets-157561790557)<br />
 
 We have three types of tickets:<br />
 
@@ -38,11 +38,11 @@ Activities planned include s'mores making, fireside war story trading, and grill
 
 
 Talks will begin at 2 PM. Speakers are still being confirmed, so if you have an idea reach out to us! Current speaker list includes<br />
-Amélie E. Koran ([@webjedi] https://twitter.com/webjedi)<br />
+Amélie E. Koran [@webjedi](https://twitter.com/webjedi)<br />
 
-([@securitySphynx] https://twitter.com/securitySphynx)on threat hunting or intel<br />
+[@securitySphynx](https://twitter.com/securitySphynx) on threat hunting or intel<br />
 
-([@mcohmi] https://twitter.com/mcohmi) <br />
+[@mcohmi](https://twitter.com/mcohmi) <br />
 
 
 ## Camping Information
