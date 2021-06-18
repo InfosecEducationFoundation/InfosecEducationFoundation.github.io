@@ -77,12 +77,12 @@ Sam's Noodle Town: 31722 E Eugene St UNIT 7, Carnation, WA 98014 (http://samsnoo
 Blake's Pizzeria and Ice Cream: 31722 E Eugene St, Carnation, WA 98014 (https://www.blakespizza.com/) <br />
 
  <br />
-https://infoseccampout.com/campmap.png
+
 
  <br />
 
 
-![](https://infoseccampout.com/SeaSecEast.png)
+![](https://infoseccampout.com/campmap.png)
 
 ## Brought to you by 
 
