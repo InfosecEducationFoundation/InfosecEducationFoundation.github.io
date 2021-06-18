@@ -76,6 +76,8 @@ Red pepper pizza: 4721 Tolt Ave, Carnation, WA 98014 (did our SeaSec East meetup
 Sam's Noodle Town: 31722 E Eugene St UNIT 7, Carnation, WA 98014 (http://samsnoodletown.com/) <br />
 Blake's Pizzeria and Ice Cream: 31722 E Eugene St, Carnation, WA 98014 (https://www.blakespizza.com/) <br />
 
+ <br />
+ ![](https://infoseccampout.com/campmap.png)
 
  <br />
 
