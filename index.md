@@ -32,6 +32,18 @@ You've rented or own your own RV, awesome! Bring it along! There are 50amp hooku
 Day-of attendance only. This is a basic ticket to attend the conference, hang at the campsites, but not to camp.<br />
 
 
+## Speakers and Activities
+Activities planned include s'mores making, fireside war story trading, and grilling. If you have an idea for an activity during the conference, let us know!<br />
+
+
+Talks will begin at 2 PM. Speakers are still being confirmed, so if you have an idea reach out to us! Current speaker list includes<br />
+Amélie E. Koran ([@webjedi] https://twitter.com/webjedi)<br />
+
+([@securitySphynx] https://twitter.com/securitySphynx)on threat hunting or intel<br />
+
+([@mcohmi] https://twitter.com/mcohmi) <br />
+
+
 ## Camping Information
 Two types of camping sites are available. "Deluxe" campsites have power and water, while non-deluxe ones do not. Camping tickets provide a campsite for both Friday & Saturday night.<br />
 <br />
@@ -47,17 +59,17 @@ Power: NEMA 6-50 and 14-50 hookups (standard RV or tesla hookups if you use the 
 
 Camping spots were spacious. Technically, the max people in each space is 4 adults, 4 kids, we had several spots with an RV, plus a tent and plenty of room. <br />
 
-Nearby Grocery Stores & Coffee within walking distance: <br />
+**Nearby Grocery Stores & Coffee within walking distance:** <br />
 Carnation Market Grocery Store:    31722 E Eugene St, Carnation, WA 98014 (independent grocer, has everything you need, including wine/beer/spirits) <br />
 
-Closest coffee shop: <br />
+**Closest coffee shop:** <br />
 Sandy's Espresso: 4650 Tolt Ave, Carnation, WA 98014 <br />
 Starbucks: 31722 E Eugene St #8, Carnation, WA 98014 <br />
 
-Eating joints (aka "restaurants") <br />
+**Eating joints (aka "restaurants")** <br />
 Carnation Cafe: 4760 Tolt Ave, Carnation, WA 98014 (https://carnationcafe.com/) <br />
 Ixtapa: 4522 Tolt Ave, Carnation, WA 98014 (http://ixtapacarnation.com) <br />
-Pete's Bar and Grill: 4640 Tolt Ave, Carnation, WA 98014 (http://www.petesclubbarandgrill.com/  **open til very late**) <br />
+Pete's Bar and Grill: 4640 Tolt Ave, Carnation, WA 98014 (http://www.petesclubbarandgrill.com/  *open til very late*) <br />
 Red pepper pizza: 4721 Tolt Ave, Carnation, WA 98014 (did our SeaSec East meetup there last time, good pizza, GF options http://redpepperpizzeria.com/) <br />
 Sam's Noodle Town: 31722 E Eugene St UNIT 7, Carnation, WA 98014 (http://samsnoodletown.com/) <br />
 Blake's Pizzeria and Ice Cream: 31722 E Eugene St, Carnation, WA 98014 (https://www.blakespizza.com/) <br />
