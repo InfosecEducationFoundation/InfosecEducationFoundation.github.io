@@ -41,6 +41,30 @@ Each campsite at  Tolt will have up to two tents and four people. When you purch
 <br />
 Note that alcohol is NOT allowed within Tolt MacDonald Park. <br />
 
+There are bathrooms and showers on site near the campsites.  All campsites we reserved have hydrant for water and firerings. Grocery store has wood usually, but you can get some at gas stations as well.   <br />
+
+Power: NEMA 6-50 and 14-50 hookups (standard RV or tesla hookups if you use the mobile charger), as well as 2 120 volt standard connectors. If someone needs a CPAP, 25-50 foot extension cord is advisable, as they may not be close to the plugin.  <br />
+
+Camping spots were spacious. Technically, the max people in each space is 4 adults, 4 kids, we had several spots with an RV, plus a tent and plenty of room. <br />
+
+Nearby Grocery Stores & Coffee within walking distance: <br />
+Carnation Market Grocery Store:    31722 E Eugene St, Carnation, WA 98014 (independent grocer, has everything you need, including wine/beer/spirits) <br />
+
+Closest coffee shop: <br />
+Sandy's Espresso: 4650 Tolt Ave, Carnation, WA 98014 <br />
+Starbucks: 31722 E Eugene St #8, Carnation, WA 98014 <br />
+
+Eating joints (aka "restaurants") <br />
+Carnation Cafe: 4760 Tolt Ave, Carnation, WA 98014 (https://carnationcafe.com/) <br />
+Ixtapa: 4522 Tolt Ave, Carnation, WA 98014 (http://ixtapacarnation.com) <br />
+Pete's Bar and Grill: 4640 Tolt Ave, Carnation, WA 98014 (http://www.petesclubbarandgrill.com/  **open til very late**) <br />
+Red pepper pizza: 4721 Tolt Ave, Carnation, WA 98014 (did our SeaSec East meetup there last time, good pizza, GF options http://redpepperpizzeria.com/) <br />
+Sam's Noodle Town: 31722 E Eugene St UNIT 7, Carnation, WA 98014 (http://samsnoodletown.com/) <br />
+Blake's Pizzeria and Ice Cream: 31722 E Eugene St, Carnation, WA 98014 (https://www.blakespizza.com/) <br />
+
+
+ <br />
+
 
 ## Brought to you by 
 
