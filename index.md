@@ -3,8 +3,9 @@
 
 
 ## The 2021 Infosec Campout is on for 27-29 August 2021 at Tolt-McDonald Campground in Carnation , Washington!<br />
+We can't wait to see you there!
 
-## Tickets are available on Eventbrite!
+## Tickets are now available on Eventbrite
 Order tickets [on Eventbrite](https://www.eventbrite.com/e/infosec-campout-2021-tickets-157561790557)
 
 ## Please find our Social Contract [here](Social_contract.md)
