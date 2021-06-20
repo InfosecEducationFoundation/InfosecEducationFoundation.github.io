@@ -37,7 +37,6 @@ Day-of attendance only. This is a basic ticket to attend the conference, hang at
 ## Speakers and Activities
 Activities planned include s'mores making, fireside war story trading, and grilling. If you have an idea for an activity during the conference, let us know!<br />
 
-
 Talks will begin at 2 PM. Speakers are still being confirmed, so if you have an idea reach out to us! Current speaker list includes<br />
 Amélie E. Koran [@webjedi](https://twitter.com/webjedi)<br />
 
@@ -47,9 +46,9 @@ Amélie E. Koran [@webjedi](https://twitter.com/webjedi)<br />
 
 
 ## Camping Information
-Two types of camping sites are available. "Deluxe" campsites have power and water, while non-deluxe ones do not. Camping tickets provide a campsite for both Friday & Saturday night.<br />
+Camping tickets provide a campsite for both Friday & Saturday night.<br />
 <br />
-Camping tickets are per-person, not per-tent, as they include conference admission as well and Tolt MacDonald limits the number of people who can stay at each campsite.  Each site includes a picnic table and fire ring. <br />
+Camping tickets are per-person, not per-tent, as they include conference admission as well and Tolt MacDonald limits the number of people who can stay at each campsite.  Each site includes a picnic table and fire ring. If you plan to bring your RV, make sure you choose the RV ticket.<br />
 <br />
 Each campsite at  Tolt will have up to two tents and four people. When you purchase tickets, you can purchase two or four camping tickets together to automatically get slotted into the same tent space, or reach out to the organizers to have us place you together at the same camp site by emailing bryan.brake at infoseceducationfoundation.com <br />
 <br />
