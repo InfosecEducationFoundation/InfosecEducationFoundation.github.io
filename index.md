@@ -37,7 +37,7 @@ Day-of attendance only. This is a basic ticket to attend the conference, hang at
 ## Speakers and Activities
 Activities planned include s'mores making, fireside war story trading, and grilling. If you have an idea for an activity during the conference, let us know!<br />
 
-Talks will begin at 2 PM. Speakers are still being confirmed, so if you have an idea reach out to us! Current speaker list includes<br />
+Talks will begin at 4 PM. Speakers are still being confirmed, so if you have an idea reach out to us! Current speaker list includes<br />
 Amélie E. Koran [@webjedi](https://twitter.com/webjedi)<br />
 
 [@securitySphynx](https://twitter.com/securitySphynx) on threat hunting or intel<br />
