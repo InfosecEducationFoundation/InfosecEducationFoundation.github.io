@@ -2,7 +2,7 @@
 
 
 
-## The 2021 Infosec Campout is on for 26-28 August 2022 at Tolt-McDonald Campground in Carnation , Washington!<br />
+## The 2021 Infosec Campout is on for 26-28 August 2022 at Tolt-McDonald Campground in Carnation, Washington!<br />
 We can't wait to see you there!
 
 ## Tickets 
@@ -12,27 +12,15 @@ Order tickets [on Eventbrite](https://www.eventbrite.com) **COMING SOON**!
 
 ## Conference Information
  
-We are reducing our numbers this year, as we want to make sure it is safe, and still allows people to be outside and enjoy the environment.<br />
+We are expanding the number of camping spaces our numbers this year, as we want to make sure it is safe, and still allows people to be outside and enjoy the environment.<br />
 
 We will be at [Tolt-McDonald Campground](https://kingcounty.gov/services/parks-recreation/parks/parks-and-natural-lands/popular-parks/toltmacdonald.aspx) in Carnation, Washington. ([Map](https://goo.gl/maps/7y4gaSK1Yutncqcu7))<br />
 
-We'll be making sure everyone can still enjoy themselves. We have 6 speaking slots, a 120 inch projector screen and projector, and we'll have some excellent talks. So bring your tents, rent an RV, and come have some fun. If you require electrical power, all camp spots will have RV hookups, so bring your electric griddles, CPAP machines, or even your EVs and have a good time.<br />
+We'll be making sure everyone can still enjoy themselves. We have speaking slots, a 120 inch projector screen and projector, and we'll have some excellent talks. So bring your tents, rent an RV, and come have some fun. If you require electrical power, all camp spots will have RV hookups, so bring your electric griddles, CPAP machines, or even your EVs and have a good time.<br />
 
 You can [order a tee shirt online](https://art-by-nukabelle.myshopify.com/); if you place an order for a ticket we will send you a discount code for your tee shirt<br />
 
 Order tickets at [Eventbrite](https://www.eventbrite.com/e/infosec-campout-2021-tickets-157561790557)<br />
-
-We have three types of tickets:<br />
-
-1. Camping + Conference (non-RV) $40.00<br />
-This gives you a slot in one of our campsites. Power and Water are available at all spaces. You'll be required to provide your own sleeping accommodations (tent, sleeping bag).<br />
-
-2. Camping + Conference (RV ONLY) $50.00 +$4.97 Fee <br />
-You've rented or own your own RV, awesome! Bring it along! There are 50amp hookups and water. We will reach out for more information.<br />
-
-3. Day Attendee, no Camping $20.00<br />
-Day-of attendance only. This is a basic ticket to attend the conference, hang at the campsites, but not to camp.<br />
-
 
 ## Speakers and Activities
 Activities planned include s'mores making, fireside war story trading, and grilling. If you have an idea for an activity during the conference, let us know!<br />
@@ -76,8 +64,6 @@ Sam's Noodle Town: 31722 E Eugene St UNIT 7, Carnation, WA 98014 (http://samsnoo
 Blake's Pizzeria and Ice Cream: 31722 E Eugene St, Carnation, WA 98014 (https://www.blakespizza.com/) <br />
 
  <br />
-
-
  <br />
 
 
