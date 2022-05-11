@@ -2,11 +2,11 @@
 
 
 
-## The 2021 Infosec Campout is on for 27-29 August 2021 at Tolt-McDonald Campground in Carnation , Washington!<br />
+## The 2021 Infosec Campout is on for 26-28 August 2022 at Tolt-McDonald Campground in Carnation , Washington!<br />
 We can't wait to see you there!
 
-## Tickets are now available on Eventbrite
-Order tickets [on Eventbrite](https://www.eventbrite.com/e/infosec-campout-2021-tickets-157561790557)
+## Tickets 
+Order tickets [on Eventbrite](https://www.eventbrite.com) **COMING SOON**!
 
 ## Please find our Social Contract [here](Social_contract.md)
 
@@ -83,10 +83,14 @@ Blake's Pizzeria and Ice Cream: 31722 E Eugene St, Carnation, WA 98014 (https://
 
 ![](https://infoseccampout.com/campmap.png)
 
-## Brought to you by 
+## Brought to you by
 
-[BrakeSec Podcast](https://www.brakeingsecurity.com/)
+Follow us on Twitter @infosecCampout, @seaSecEast, or @infosec_Edufo
 
+Follow @bryanbrake on https://mastodon.social for updates 
+
+[BrakeSec Ppdcast](https://www.brakeingsecurity.com/)
+[BrakeSec Broadcast on Twitch](https://twitch.tv/brakesec)
 
 ![](https://infoseccampout.com/BRAKEING-LOGO-01-small.png)
 
