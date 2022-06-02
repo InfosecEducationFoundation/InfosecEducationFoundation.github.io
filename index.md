@@ -6,7 +6,7 @@
 We can't wait to see you there!
 
 ## Tickets 
-Order tickets [on Eventbrite](https://www.eventbrite.com) **COMING SOON**!
+Order tickets [on Eventbrite]([https://www.eventbrite.com](https://www.eventbrite.com/e/infosec-campout-2022-tickets-169734260743) !
 
 ## Please find our Social Contract [here](Social_contract.md)
 
@@ -19,8 +19,6 @@ We will be at [Tolt-McDonald Campground](https://kingcounty.gov/services/parks-r
 We'll be making sure everyone can still enjoy themselves. We have speaking slots, a 120 inch projector screen and projector, and we'll have some excellent talks. So bring your tents, rent an RV, and come have some fun. If you require electrical power, all camp spots will have RV hookups, so bring your electric griddles, CPAP machines, or even your EVs and have a good time.<br />
 
 You can [order a tee shirt online](https://art-by-nukabelle.myshopify.com/); if you place an order for a ticket we will send you a discount code for your tee shirt<br />
-
-Order tickets at [Eventbrite](https://www.eventbrite.com/e/infosec-campout-2021-tickets-157561790557)<br />
 
 ## Speakers and Activities
 Activities planned include s'mores making, fireside war story trading, and grilling. If you have an idea for an activity during the conference, let us know!<br />
