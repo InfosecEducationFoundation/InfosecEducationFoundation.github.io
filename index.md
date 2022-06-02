@@ -2,7 +2,7 @@
 
 
 
-## The 2021 Infosec Campout is on for 26-28 August 2022 at Tolt-McDonald Campground in Carnation, Washington!<br />
+## Infosec Campout is on for 26-28 August 2022 at Tolt-McDonald Campground in Carnation, Washington!<br />
 We can't wait to see you there!
 
 ## Tickets 
@@ -38,7 +38,7 @@ Camping tickets provide a campsite for both Friday & Saturday night.<br />
 <br />
 Camping tickets are per-person, not per-tent, as they include conference admission as well and Tolt MacDonald limits the number of people who can stay at each campsite.  Each site includes a picnic table and fire ring. If you plan to bring your RV, make sure you choose the RV ticket.<br />
 <br />
-Each campsite at  Tolt will have up to two tents and four people. When you purchase tickets, you can purchase two or four camping tickets together to automatically get slotted into the same tent space, or reach out to the organizers to have us place you together at the same camp site by emailing bryan.brake at infoseceducationfoundation.com <br />
+Each campsite at Tolt will have up to two tents and four people. When you purchase tickets, you can purchase two or four camping tickets together to automatically get slotted into the same tent space, or reach out to the organizers to have us place you together at the same camp site by emailing bryan.brake at infoseceducationfoundation.com <br />
 <br />
 Note that alcohol is NOT allowed within Tolt MacDonald Park. <br />
 
@@ -75,7 +75,7 @@ Follow us on Twitter @infosecCampout, @seaSecEast, or @infosec_Edufo
 
 Follow @bryanbrake on https://mastodon.social for updates 
 
-[BrakeSec Ppdcast](https://www.brakeingsecurity.com/)
+[BrakeSec Podcast](https://www.brakeingsecurity.com/)
 [BrakeSec Broadcast on Twitch](https://twitch.tv/brakesec)
 
 ![](https://infoseccampout.com/BRAKEING-LOGO-01-small.png)
