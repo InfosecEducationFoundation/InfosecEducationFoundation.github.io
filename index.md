@@ -18,17 +18,15 @@ We will be at [Tolt-McDonald Campground](https://kingcounty.gov/services/parks-r
 
 We'll be making sure everyone can still enjoy themselves. We have speaking slots, a 120 inch projector screen and projector, and we'll have some excellent talks. So bring your tents, rent an RV, and come have some fun. If you require electrical power, all camp spots will have RV hookups, so bring your electric griddles, CPAP machines, or even your EVs and have a good time.<br />
 
-You can [order a tee shirt online](https://art-by-nukabelle.myshopify.com/); if you place an order for a ticket we will send you a discount code for your tee shirt<br />
+You can [order a tee shirt online **link TBD**](link TBD); if you place an order for a ticket we will send you a discount code for your tee shirt<br />
 
-## Speakers and Activities
+## Speakers and Activities  [CFP submission link](https://forms.gle/hS8CoPMjQ3SEbj5j6)
 Activities planned include s'mores making, fireside war story trading, and grilling. If you have an idea for an activity during the conference, let us know!<br />
 
 Talks will begin at 4 PM. Speakers are still being confirmed, so if you have an idea reach out to us! Current speaker list includes<br />
-Amélie E. Koran [@webjedi](https://twitter.com/webjedi)<br />
 
-[@securitySphynx](https://twitter.com/securitySphynx) on threat hunting or intel<br />
+Speaker Schedule: TBD
 
-[@mcohmi](https://twitter.com/mcohmi) <br />
 
 
 ## Camping Information
