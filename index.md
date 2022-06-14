@@ -6,7 +6,7 @@
 We can't wait to see you there!
 
 ## Tickets 
-Order tickets [on Eventbrite]([https://www.eventbrite.com](https://www.eventbrite.com/e/infosec-campout-2022-tickets-169734260743) !
+Order tickets [on Eventbrite](https://www.eventbrite.com/e/infosec-campout-2022-tickets-169734260743) !
 
 ## Please find our Social Contract [here](Social_contract.md)
 
