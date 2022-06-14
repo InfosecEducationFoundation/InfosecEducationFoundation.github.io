@@ -3,7 +3,6 @@
 
 
 ## Infosec Campout is on for 26-28 August 2022 at Tolt-McDonald Campground in Carnation, Washington!<br />
-We can't wait to see you there!
 
 ## Tickets 
 Order tickets [on Eventbrite](https://www.eventbrite.com/e/infosec-campout-2022-tickets-169734260743) !
@@ -12,13 +11,13 @@ Order tickets [on Eventbrite](https://www.eventbrite.com/e/infosec-campout-2022-
 
 ## Conference Information
  
-We are expanding the number of camping spaces our numbers this year, as we want to make sure it is safe, and still allows people to be outside and enjoy the environment.<br />
+We are expanding the number of camping spaces this year. This will allow us to safely expand and keep people safe and enjoy the great outdoors.<br />
 
-We will be at [Tolt-McDonald Campground](https://kingcounty.gov/services/parks-recreation/parks/parks-and-natural-lands/popular-parks/toltmacdonald.aspx) in Carnation, Washington. ([Map](https://goo.gl/maps/7y4gaSK1Yutncqcu7))<br />
+[Tolt-McDonald Campground](https://kingcounty.gov/services/parks-recreation/parks/parks-and-natural-lands/popular-parks/toltmacdonald.aspx) is located in Carnation, Washington. About 40 minutes outside of Seattle on Route 202. ([Map](https://goo.gl/maps/7y4gaSK1Yutncqcu7))<br />
 
-We'll be making sure everyone can still enjoy themselves. We have speaking slots, a 120 inch projector screen and projector, and we'll have some excellent talks. So bring your tents, rent an RV, and come have some fun. If you require electrical power, all camp spots will have RV hookups, so bring your electric griddles, CPAP machines, or even your EVs and have a good time.<br />
+We'll be making sure everyone can still enjoy themselves. We have speaking slots, a 120 inch projector screen and projector, and we'll have some excellent talks. So bring your tents, rent an RV, and come have some fun. If you require electrical power, all camp spots will have RV hookups, so bring your electric griddles, CPAP machines, or even your EVs to camp in (Bryan will be camping in his Model 3...) <br />
 
-You can [order a tee shirt online **link TBD**](link TBD); if you place an order for a ticket we will send you a discount code for your tee shirt<br />
+You can [order a tee shirt online **link TBD**](link TBD); if you purchase a ticket, we'll send you a link to the site where you can order merchandise or the official t-shirt.<br />
 
 ## Speakers and Activities  [CFP submission link](https://forms.gle/hS8CoPMjQ3SEbj5j6)
 Activities planned include s'mores making, fireside war story trading, and grilling. If you have an idea for an activity during the conference, let us know!<br />
