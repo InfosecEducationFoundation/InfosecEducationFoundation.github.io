@@ -2,7 +2,7 @@
 
 
 
-## Infosec Campout is on for 26-28 August 2022 at Tolt-McDonald Campground in Carnation, Washington!<br />
+## Infosec Campout is on for 26-28 August 2022 at Tolt-MacDonald Campground in Carnation, Washington!<br />
 
 ## Tickets 
 Order tickets [on Eventbrite](https://www.eventbrite.com/e/infosec-campout-2022-tickets-169734260743) !
