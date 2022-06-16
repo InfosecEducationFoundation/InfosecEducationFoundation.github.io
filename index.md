@@ -13,7 +13,7 @@ Order tickets [on Eventbrite](https://www.eventbrite.com/e/infosec-campout-2022-
  
 We are expanding the number of camping spaces this year. This will allow us to safely expand and keep people safe and enjoy the great outdoors.<br />
 
-[Tolt-McDonald Campground](https://kingcounty.gov/services/parks-recreation/parks/parks-and-natural-lands/popular-parks/toltmacdonald.aspx) is located in Carnation, Washington. About 40 minutes outside of Seattle on Route 202. ([Map](https://goo.gl/maps/7y4gaSK1Yutncqcu7))<br />
+[Tolt-MacDonald Campground](https://kingcounty.gov/services/parks-recreation/parks/parks-and-natural-lands/popular-parks/toltmacdonald.aspx) is located in Carnation, Washington. About 40 minutes outside of Seattle on Route 202. ([Map](https://goo.gl/maps/7y4gaSK1Yutncqcu7))<br />
 
 We'll be making sure everyone can still enjoy themselves. We have speaking slots, a 120 inch projector screen and projector, and we'll have some excellent talks. So bring your tents, rent an RV, and come have some fun. If you require electrical power, all camp spots will have RV hookups, so bring your electric griddles, CPAP machines, or even your EVs to camp in (Bryan will be camping in his Model 3...) <br />
 
