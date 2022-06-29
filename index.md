@@ -17,7 +17,7 @@ We are expanding the number of camping spaces this year. This will allow us to s
 
 We'll be making sure everyone can still enjoy themselves. We have speaking slots, a 120 inch projector screen and projector, and we'll have some excellent talks. So bring your tents, rent an RV, and come have some fun. If you require electrical power, all camp spots will have RV hookups, so bring your electric griddles, CPAP machines, or even your EVs to camp in (Bryan will be camping in his Model 3...) <br />
 
-You can [order a tee shirt online **link TBD**](link TBD); if you purchase a ticket, we'll send you a link to the site where you can order merchandise or the official t-shirt.<br />
+You can [order a tee shirt online]([link TBD](https://infoseccampout.square.site/)); if you purchase a ticket, we'll send you a disccount code the site where you can order merchandise or the official t-shirt.<br />
 
 ## Speakers and Activities  [CFP submission link](https://forms.gle/hS8CoPMjQ3SEbj5j6)
 Activities planned include s'mores making, fireside war story trading, and grilling. If you have an idea for an activity during the conference, let us know!<br />
