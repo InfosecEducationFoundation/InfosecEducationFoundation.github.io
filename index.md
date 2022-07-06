@@ -13,7 +13,7 @@ Order tickets [on Eventbrite](https://www.eventbrite.com/e/infosec-campout-2022-
  
 We are expanding the number of camping spaces this year. This will allow us to expand and keep people safe and enjoy the great outdoors.<br />
 
-**Update** We now have a Discord channel for conference attendees to meet, and to ask questions ahead of the conference. Join our Discord at https://discord.gg/brakesec (please click 'OK' after you've read the Code of Conduct, and find the 'Infosec-Campout' channel!)
+**Update** We now have a Discord channel for conference attendees to meet, and to ask questions ahead of the conference. Join our Discord at [https://discord.gg/brakesec](https://discord.gg/brakesec) (please click 'OK' after you've read the Code of Conduct, and find the 'Infosec-Campout' channel!)
 
 [Tolt-MacDonald Campground](https://kingcounty.gov/services/parks-recreation/parks/parks-and-natural-lands/popular-parks/toltmacdonald.aspx) is located in Carnation, Washington. About 40 minutes outside of Seattle on Route 202. ([Map](https://goo.gl/maps/7y4gaSK1Yutncqcu7))<br />
 
