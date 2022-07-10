@@ -1,1 +1,0 @@
-visit "/opt/userz/superWeasel/flag.txt" in to get the password for user 'belmont'
